@@ -56,8 +56,12 @@ select{
 input{
     background-color: yellow;
     color: black;
+    border: none;
+    border-radius: 8px;
 }
 button{
     color: red;
     background-color: green;
+    border: none;
+    border-radius: 8px;
 }
