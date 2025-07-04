@@ -5,3 +5,59 @@ h1{
     font-weight: 400;
     text-align: center;
 }
+h5{
+    text-align: center;
+    width: 50%;
+    
+    
+}
+h2{
+    text-align: center;
+    color: red;
+    background-color: green;
+    width: 50%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgb(145, 117, 117);
+    
+
+}
+.rony{
+    display: flex;
+    justify-content: center;
+}
+.a{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(116, 91, 91);
+}
+.z{
+    display: flex;
+    justify-content: center;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+    
+}
+select{
+    background-color: blue;
+    color: red;
+}
+input{
+    background-color: yellow;
+    color: black;
+}
+button{
+    color: red;
+    background-color: green;
+}
